@@ -11,7 +11,7 @@ The final deliverable is a high-performance **web API built with FastAPI**. This
 * **Exploratory Data Analysis (EDA):** Visual investigation of the main churn drivers using `Seaborn` and `Matplotlib`.
 * **Robust Preprocessing:** Handling of missing data by comparing different strategies (dropping vs. imputation).
 * **Feature Engineering:** Encoding of categorical variables with `One-Hot Encoding` and scaling of numerical features with `StandardScaler`.
-* **Comparative Model Analysis:** Training and evaluation of multiple algorithms, including `Logistic Regression` and `XGBoost`.
+* **Comparative Model Analysis:** Training and evaluation of multiple algorithms, including `Logistic Regression`.
 * **API Development:** The best-performing model is served via a production-ready API using **FastAPI**.
 * **Interactive Documentation:** The API includes automatically generated, interactive documentation via Swagger UI.
 
